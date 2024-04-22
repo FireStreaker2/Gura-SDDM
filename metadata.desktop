@@ -1,0 +1,12 @@
+[SddmGreeterTheme]
+Name=Gura-SDDM
+Description=Gawr Gura SDDM Theme
+Author=FireStreaker2
+License=MIT
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=gura-sddm
