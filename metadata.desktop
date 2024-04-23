@@ -2,7 +2,7 @@
 Name=Gura-SDDM
 Description=Gawr Gura SDDM Theme
 Author=FireStreaker2
-License=MIT
+License=GPL-3.0-or-later
 Type=sddm-theme
 Version=1.0
 Screenshot=preview.png
